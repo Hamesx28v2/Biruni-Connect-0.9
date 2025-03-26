@@ -1,0 +1,1 @@
+ C:\\Flutter\\biruni_connect\\.dart_tool\\flutter_build\\270320c349dcb925f3aef573f59a850b\\native_assets.yaml: 
